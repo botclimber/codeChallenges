@@ -1,2 +1,2 @@
-# codeImp
-interesting feats from code point of view
+# Code Challenges
+Rep dedicated for code challenges/exerc/problem Solving
